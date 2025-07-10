@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sora</h1>
-
-<h1>🌱 Software Developer</h1>
+<h1 align="left">Hi!👋, Welcome to my Github!</h1>
+I'm Sora, working as a Software Developer with 4 years based in Vancouver, Canada 🇨🇦  
 
 <br />
 
@@ -71,14 +70,6 @@
       height="40"
     />
   </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg"
-      alt="helm"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
@@ -91,11 +82,28 @@
 
 <br />
 
-<hr width="36%" />
+<hr width="100%" />
 
 <h3>My GitHub Stats</h3>
 
 <br />
+
+<p>
+  <img
+    align="left"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sora11023539&amp;theme=dark"
+    alt="sora11023539"
+  />
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=sora11023539&amp;show_icons=true&amp;theme=dark&amp;locale=en"
+    alt="sora11023539"
+  />
+</p>
+
+<p>
+  <br /><br /><br /><br /><br /><br /><br /><br />
+</p>
 
 <p>
   <img
@@ -105,30 +113,11 @@
   />
 </p>
 
-<p><br /><br /><br /><br /><br /><br /><br /></p>
-
 <p>
-  &nbsp;<img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=sora11023539&amp;show_icons=true&amp;theme=dark&amp;locale=en"
-    alt="sora11023539"
-  />
+  <br /><br /><br /><br /><br /><br /><br /><br />
 </p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sora11023539&amp;theme=dark"
-    alt="sora11023539"
-  />
-</p>
-
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-<hr width="60%" />
-<br />
+<hr width="100%" />
 
 <p align="left">
   <img
@@ -136,7 +125,5 @@
     alt="sora11023539"
   />
 </p>
-
-<hr />
 
 <p>Last Edited on: 08/07/2025</p>
